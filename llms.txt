@@ -55,6 +55,7 @@ US vertically integrated single-family rental investor and operator; Merchant Ba
 
 #### How I use AI (what and why)
 - Property history platform: 70M+ row day-by-day history of every home's status, rent and leasing (Python, SQL), used for fund-wise and market-wise problem-home reviews. Why: daily reports showed only today, hiding trends and repeat problems.
+- AI time series forecasting: built a forecasting model for occupancy, leasing velocity and renewals using TimesFM, Google's foundation model for time series. Why: forward-looking forecasts support pricing and leasing decisions before trends show up in reports.
 - Rent-cut effectiveness study: 6 years of leasing history across 1,912 homes, comparing similar homes with and without cuts; feeds a daily price-cut candidate list. Why: cuts cost revenue, so the team needed evidence of when they speed up leasing.
 - Databricks dashboards and Genie agents: built Revenue Management dashboards and Genie AI agents on Databricks from scratch, so the team can track and question leasing, pricing and occupancy data directly. Why: faster self-serve answers without waiting on manual reports.
 - Fund model and budget file reviews: AI-assisted review to find root causes of recurring errors and prepare corrected, change-logged versions. Why: these numbers go to leadership and investors.
@@ -89,7 +90,7 @@ US real estate advisory.
 ## Skills
 
 - Real estate and fund finance: revenue management and pricing, fund cash flow modeling, LP reporting, actual vs budget, waterfall distributions, underwriting (DCF, IRR, CoC, DSCR, LTV), covenant monitoring, NAV / valuation, performance attribution, credit analysis.
-- AI and automation: Claude, ChatGPT (agentic workflows, MCP data connectors), Databricks (dashboards, Genie agents), Python, SQL, DuckDB, Power Query, VBA / macros (expert), Excel (expert).
+- AI and automation: Claude, ChatGPT (agentic workflows, MCP data connectors), Databricks (dashboards, Genie agents), TimesFM (time series forecasting), Python, SQL, DuckDB, Power Query, VBA / macros (expert), Excel (expert).
 - Platforms and standards: Yardi (advanced), Tableau, Power BI, Databricks, Argus, CoStar, STR, Salesforce, Bloomberg, CapitalIQ, AWS SageMaker; Ind AS, IFRS, US GAAP, RBI, SEBI.
 
 ## Education, awards and community
