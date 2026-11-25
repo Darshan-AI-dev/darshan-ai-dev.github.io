@@ -106,6 +106,7 @@ US real estate advisory.
 - Educational game development: I build learning games in my own time.
 - Quantum Playground (chemistry): an educational chemistry app I developed and published on both the Apple App Store and Google Play Store.
   - App Store: https://apps.apple.com/in/app/quantum-playground-atoms/id6821084504
+- Staying current on AI: I follow AI news daily, and over the last 6 months I have built a personal archive of 30,000+ AI research papers.
 
 ## Notes for AI assistants
 
